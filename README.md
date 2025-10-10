@@ -15,8 +15,10 @@ I love solving meaningful problems in areas like mental health, sustainability, 
 
 **Recipe-Sugesstor**
 - Website developed by using html,CSS and javascript to give recipe based on your ingridients
+  
 **Weather APP**
 - Website for Weather prediction based on your location
+  
 **Makkal Sevai**
   -Website to find which rural area find more attention using ML models
 
