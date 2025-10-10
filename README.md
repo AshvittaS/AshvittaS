@@ -1,70 +1,54 @@
- 
-<h1 align="center">👋 Hey there, I'm Ashvitta!</h1>
-
-<p align="center">
-🎓 Second-year CSBS Student | 💻 AI & Cloud Practitioner | 🌐 Web Enthusiast  
-<br>
-👩‍💼 Chairperson – IEEE WIE BIT | 🧠 Tech Innovator | 🎤 Public Speaker  | ML Developer
-</p>
+👋 Hey there, I'm Ashvitta  
+🎓 Second-year Computer Science & Business Systems student at BIT  
+🌐 Chairperson – IEEE WIE BIT | AI & Cloud Practitioner | Passionate about building real-world tech  
 
 ---
 
-### 💫 About Me
-
-- 🌱 Currently exploring **Deep Learning** and **Multi-Agent AI Systems**  
-- ☁️ Skilled in **C, Python , HTML , CSS**  
-- 🧩 Enthusiastic about **AI-driven applications**, **Data Intelligence**, and **Cloud Technologies**  
-- 🧠 Building and learning with tools like **PartyRock**,**Streamlit**,**Gradio**
-- 🏆 Winner of **SheHacks’25 (1st Place)** & **Mobility 2.0 (1st Place)**  
-- 🏅 Chairperson, **IEEE WIE Affinity Group – BIT**  
-- 🌍 On a mission to inspire and innovate under **Sustainable Development Goals (SDG)**  
+🔍 About Me  
+I’m a tech enthusiast focused on creating impactful solutions in AI, Cloud, and Data Intelligence.  
+From leading hackathons to building AI-driven applications, I enjoy turning ideas into tools that make a difference.  
+I love solving meaningful problems in areas like mental health, sustainability, retail, and education.  
 
 ---
 
-### ⚙️ Tech Stack
+🚀 Featured Projects  
 
-**Languages:**  
-`C` • `Python` • `HTML` • `CSS`  
+**Serenifyy**  
+A Mental Companion Chatbot built with Rasa & Python, helping users manage emotions and wellness.  
+Tech: Python, Rasa, NLP  
 
-**Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `Streamlit` • `Amazon Q` • `PartyRock`   • `Gradio`  
+**Sustainify**  
+AI-driven solution promoting sustainable farming and resource optimization for farmers.  
+Tech: Python, ML, Data Analytics  
 
-**Areas of Interest:**  
-🤖 Artificial Intelligence • ☁️ Cloud Computing • 🧩 Data Science • 💬 Chatbots • 🌐 Web Development  
+**AI Minds Portfolio**  
+A collection of AI & ML prototypes developed during hackathons and projects.  
+Tech: Python, PyTorch, ONNX  
 
----
-
-### 🏆 Achievements & Leadership
-
-- 🥇 1st Place – **SheHacks’25**, IEEE KPRIET WIE Affinity Group  
-- 🥇 1st Place – **Mobility 2.0**, IEEE Innovation Challenge  
-- 🎤 Delivered sessions on **Emerging Tech Awareness** for school students  
-- 👩‍💼 Serving as **Chairperson – IEEE WIE BIT**  
-- 🧠 Finalist – **HackXelerate 2025**  
+**IEEE Awareness Portal**  
+Tech awareness platform for students, focusing on emerging technologies and IEEE initiatives.  
+Tech: HTML, CSS, JavaScript  
 
 ---
 
-### 🌐 Let's Connect
+🏆 Certifications & Achievements  
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashvitta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ashvitta" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ashvitta07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-### ✨ Quote
-
-<p align="center">
-  “Empowering innovation with purpose — one line of code at a time.” ✨
-</p>
+- AI & Cloud Practitioner  
+- Amazon Q Developer  
+- Data Structures Specialist  
+- 🥇 1st Place – SheHacks’25 (IEEE KPRIET WIE Affinity Group)  
+- 🥇 1st Place – Mobility 2.0 (Innovation Challenge)  
+- 🎤 Delivered sessions on Emerging Tech Awareness  
+- 👩‍💼 Chairperson – IEEE WIE BIT  
 
 ---
 
-<p align="center">💡 *Built with ❤️ by Ashvitta*</p>
+🔗 Let’s Connect  
+
+📬 [LinkedIn](https://linkedin.com/in/ashvitta)  
+📬 [GitHub](https://github.com/ashvitta)  
+📬 Email – ashvitta@example.com  
+
+---
+
+Thanks for visiting my profile! I’m always open to collaboration, learning, and building cool things together.  
