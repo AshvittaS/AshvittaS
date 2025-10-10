@@ -13,28 +13,17 @@ I love solving meaningful problems in areas like mental health, sustainability, 
 
 🚀 Featured Projects  
 
-**Serenifyy**  
-A Mental Companion Chatbot built with Rasa & Python, helping users manage emotions and wellness.  
-Tech: Python, Rasa, NLP  
-
-**Sustainify**  
-AI-driven solution promoting sustainable farming and resource optimization for farmers.  
-Tech: Python, ML, Data Analytics  
-
-**AI Minds Portfolio**  
-A collection of AI & ML prototypes developed during hackathons and projects.  
-Tech: Python, PyTorch, ONNX  
-
-**IEEE Awareness Portal**  
-Tech awareness platform for students, focusing on emerging technologies and IEEE initiatives.  
-Tech: HTML, CSS, JavaScript  
+**Recipe-Sugesstor**
+- Website developed by using html,CSS and javascript to give recipe based on your ingridients
+**Weather APP**
+- Website for Weather prediction based on your location
+**Makkal Sevai**
+  -Website to find which rural area find more attention using ML models
 
 ---
 
 🏆 Certifications & Achievements  
 
-- AI & Cloud Practitioner  
-- Amazon Q Developer  
 - Data Structures Specialist  
 - 🥇 1st Place – SheHacks’25 (IEEE KPRIET WIE Affinity Group)  
 - 🥇 1st Place – Mobility 2.0 (Innovation Challenge)  
@@ -46,8 +35,6 @@ Tech: HTML, CSS, JavaScript
 🔗 Let’s Connect  
 
 📬 [LinkedIn](https://linkedin.com/in/ashvitta)  
-📬 [GitHub](https://github.com/ashvitta)  
-📬 Email – ashvitta@example.com  
 
 ---
 
